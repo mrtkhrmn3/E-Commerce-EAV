@@ -1,0 +1,17 @@
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerceEAV.Application.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerceEAV.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerceEAV.Application.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerceEAV.Application.AssemblyInfo.cs
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerceEAV.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\bin\Debug\net8.0\ECommerceEAV.Application.deps.json
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\bin\Debug\net8.0\ECommerceEAV.Application.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\bin\Debug\net8.0\ECommerceEAV.Application.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\bin\Debug\net8.0\ECommerceEAV.Contract.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\bin\Debug\net8.0\ECommerceEAV.Domain.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\bin\Debug\net8.0\ECommerceEAV.Contract.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\bin\Debug\net8.0\ECommerceEAV.Domain.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerc.116E70DC.Up2Date
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerceEAV.Application.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\refint\ECommerceEAV.Application.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ECommerceEAV.Application.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\Application\obj\Debug\net8.0\ref\ECommerceEAV.Application.dll

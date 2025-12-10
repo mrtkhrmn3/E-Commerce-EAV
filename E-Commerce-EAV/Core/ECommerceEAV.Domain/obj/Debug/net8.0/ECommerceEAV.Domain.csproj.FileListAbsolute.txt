@@ -1,0 +1,11 @@
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\bin\Debug\net8.0\ECommerceEAV.Domain.deps.json
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\bin\Debug\net8.0\ECommerceEAV.Domain.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\bin\Debug\net8.0\ECommerceEAV.Domain.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\ECommerceEAV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\ECommerceEAV.Domain.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\ECommerceEAV.Domain.AssemblyInfo.cs
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\ECommerceEAV.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\ECommerceEAV.Domain.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\refint\ECommerceEAV.Domain.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\ECommerceEAV.Domain.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Domain\obj\Debug\net8.0\ref\ECommerceEAV.Domain.dll

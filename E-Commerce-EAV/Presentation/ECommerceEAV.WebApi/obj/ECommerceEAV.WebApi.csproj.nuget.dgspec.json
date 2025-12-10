@@ -1,0 +1,405 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Presentation\\ECommerceEAV.WebApi\\ECommerceEAV.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\Application\\ECommerceEAV.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\Application\\ECommerceEAV.Application.csproj",
+        "projectName": "ECommerceEAV.Application",
+        "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\Application\\ECommerceEAV.Application.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\ECommerceEAV.Contract.csproj": {
+                "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\ECommerceEAV.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\ECommerceEAV.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\ECommerceEAV.Contract.csproj",
+        "projectName": "ECommerceEAV.Contract",
+        "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\ECommerceEAV.Contract.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Domain\\ECommerceEAV.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Domain\\ECommerceEAV.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Domain\\ECommerceEAV.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Domain\\ECommerceEAV.Domain.csproj",
+        "projectName": "ECommerceEAV.Domain",
+        "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Domain\\ECommerceEAV.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Infrastructure\\ECommerceEAV.Persistence\\ECommerceEAV.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Infrastructure\\ECommerceEAV.Persistence\\ECommerceEAV.Persistence.csproj",
+        "projectName": "ECommerceEAV.Persistence",
+        "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Infrastructure\\ECommerceEAV.Persistence\\ECommerceEAV.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Infrastructure\\ECommerceEAV.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\ECommerceEAV.Contract.csproj": {
+                "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\ECommerceEAV.Contract\\ECommerceEAV.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Presentation\\ECommerceEAV.WebApi\\ECommerceEAV.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Presentation\\ECommerceEAV.WebApi\\ECommerceEAV.WebApi.csproj",
+        "projectName": "ECommerceEAV.WebApi",
+        "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Presentation\\ECommerceEAV.WebApi\\ECommerceEAV.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Presentation\\ECommerceEAV.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\Application\\ECommerceEAV.Application.csproj": {
+                "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Core\\Application\\ECommerceEAV.Application.csproj"
+              },
+              "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Infrastructure\\ECommerceEAV.Persistence\\ECommerceEAV.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Mert\\source\\repos\\E-Commerce-EAV\\Infrastructure\\ECommerceEAV.Persistence\\ECommerceEAV.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

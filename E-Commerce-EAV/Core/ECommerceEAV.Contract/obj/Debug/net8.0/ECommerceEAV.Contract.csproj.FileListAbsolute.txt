@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\bin\Debug\net8.0\ECommerceEAV.Contract.deps.json
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\bin\Debug\net8.0\ECommerceEAV.Contract.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\bin\Debug\net8.0\ECommerceEAV.Contract.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\bin\Debug\net8.0\ECommerceEAV.Domain.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\bin\Debug\net8.0\ECommerceEAV.Domain.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerceEAV.Contract.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerceEAV.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerceEAV.Contract.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerceEAV.Contract.AssemblyInfo.cs
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerceEAV.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerc.3C6219B7.Up2Date
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerceEAV.Contract.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\refint\ECommerceEAV.Contract.dll
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ECommerceEAV.Contract.pdb
+C:\Users\Mert\source\repos\E-Commerce-EAV\Core\ECommerceEAV.Contract\obj\Debug\net8.0\ref\ECommerceEAV.Contract.dll
